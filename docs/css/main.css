@@ -1,0 +1,24 @@
+/*HEAD*/
+.header {
+	padding: 50px;
+	background-color: #cdcdcd;
+	text-align: center;
+	font-size: 32px;
+	color: red;
+}
+/*content*/
+.main {
+	background-color: yellow;
+	font-size: 20px;
+	padding: 100px;
+	color: green;
+	text-align: center;
+}
+/*FOOTER*/
+.footer {
+	background-color: #f88855;
+	color: #cd45c8;
+	font-size: 30px;
+	padding: 50px;
+	text-align: center;
+}
