@@ -12,4 +12,13 @@
 	font-size: 20px;
 	padding: 100px;
 	color: green;
+	text-align: center;
+}
+/*FOOTER*/
+.footer {
+	background-color: #f88855;
+	color: #cd45c8;
+	font-size: 30px;
+	padding: 50px;
+	text-align: center;
 }
