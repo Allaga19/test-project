@@ -1,24 +1,32 @@
+a {
+  cursor: pointer; }
+
 /*HEAD*/
 .header {
-	padding: 50px;
-	background-color: #cdcdcd;
-	text-align: center;
-	font-size: 32px;
-	color: red;
-}
+  padding: 50px;
+  background-color: #cbd663;
+  text-align: center;
+  font-size: 32px;
+  color: #070e0f; }
+
+.nav ul {
+  display: flex;
+  justify-content: space-around;
+  text-transform: uppercase; }
+
 /*content*/
 .main {
-	background-color: yellow;
-	font-size: 20px;
-	padding: 100px;
-	color: green;
-	text-align: center;
-}
+  background-color: #43d874;
+  font-size: 20px;
+  padding: 100px;
+  color: #070e0f;
+  text-align: center;
+  text-transform: uppercase; }
+
 /*FOOTER*/
 .footer {
-	background-color: #f88855;
-	color: #cd45c8;
-	font-size: 30px;
-	padding: 50px;
-	text-align: center;
-}
+  background-color: #5573f8;
+  color: #070e0f;
+  font-size: 30px;
+  padding: 50px;
+  text-align: center; }
